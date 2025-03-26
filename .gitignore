@@ -25,6 +25,4 @@ dist-ssr
 .bolt
 *.bolt
 .env
-.img_capture/*
-*.img_capture
-*.img_capture/*
+img/
