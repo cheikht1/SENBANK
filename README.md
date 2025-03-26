@@ -55,9 +55,9 @@ npm run dev
 ## 📱 Captures d'écran
 
 <div align="center">
-  <img src="img_capture/image1.png" alt="Vue principale du dashboard" width="45%"/>
-  <img src="img_capture/image1.png" alt="Page des transactions" width="45%"/> 
-  <img src="img_capture/image1.png" alt="Section analytique" width="90%"/>
+  <img src="img/image1.png" alt="Vue principale du dashboard" width="45%"/>
+  <img src="img/image1.png" alt="Page des transactions" width="45%"/> 
+  <img src="img/image1.png" alt="Section analytique" width="90%"/>
 </div>
 
 ## 🔧 Configuration
