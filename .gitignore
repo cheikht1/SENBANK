@@ -27,3 +27,4 @@ dist-ssr
 .env
 .img_capture/*
 *.img_capture
+*.img_capture/*
